@@ -1,0 +1,43 @@
+
+html{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(GearVN_anime-P.13_-20-scaled.jpg);
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+}
+h1{
+	color:black;
+	text-align: center;
+	font-size: 300%;
+}
+
+ul li{
+	display: inline-block;
+	
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	padding:5px 1px;
+	border: 3px solid white;
+}
+ul li a:hover{
+	background-color:white;
+	color:black;
+	font-size:120%;
+}
+.logo img{
+	float: right;
+	width: 100px;
+	height auto;
+}
+.title{
+	position: absolute;
+	top:2%;
+	left:47%;
+	transform: translats=e(-50%,-50%);
+}
+.title h1{
+	color: white;
+}
+	
